@@ -1,7 +1,7 @@
 # Ansible-Vault Automator
 Easily encrypt, edit, and decrypt files through Finder (rather than command line). When you choose to edit an encrypted file, you can edit it directly in Sublime Text 3 instead of `nano` or `vim`.
 
-![Ansible-Vault Automator](docs/assets/Ansible-Vault-Automator.gif)
+[![Ansible-Vault Automator](docs/assets/Ansible-Vault-Automator.gif)](https://raw.githubusercontent.com/521dimensions/ansible-vault-automator/master/docs/assets/Ansible-Vault-Automator.gif)
 
 ## Requirements
 Before you get too excited, you neeed to do the following things:
